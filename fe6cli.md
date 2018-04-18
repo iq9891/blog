@@ -35,7 +35,7 @@ yeoman 固然好用，但总是多了一步很是麻烦，还得下载脚手架�
 
 一张图说明整体的架构。⤵️
 
-![fecli 架构图](./img/fecli.png)
+![fecli 架构图](https://raw.githubusercontent.com/iq9891/blog/master/img/fecli.png)
 
 ### 关于模板
 
@@ -158,7 +158,7 @@ if(!program.args.length){
 
 运行 `fe` 之后的结果：
 
-![运行 fe 结果](./img/fecli-pre.png)
+![运行 fe 结果](https://raw.githubusercontent.com/iq9891/blog/master/img/fecli-pre.png)
 
 **commander** 的具体使用方法在这里就不展开了，可以直接到[官网](https://github.com/tj/commander.js/)去看详细的文档。
 
