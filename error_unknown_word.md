@@ -37,7 +37,7 @@ Module build failed: ModuleBuildError: Module build failed: Syntax Error
     at <anonymous>
  @ ./src/style/index.ts 1:0-25
 ```
-![ModuleBuildError: Module build failed: Syntax Error  Unknown word](./img/error_unkown_word.png)
+![ModuleBuildError: Module build failed: Syntax Error  Unknown word](https://raw.githubusercontent.com/iq9891/blog/master/img/error_unkown_word.png)
 
 ## 解决方案
 
