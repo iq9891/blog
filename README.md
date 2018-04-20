@@ -13,3 +13,4 @@
 - [Unknown word](https://github.com/iq9891/blog/issues/3)
 - [Module build failed: Error: "extract-text-webpack-plugin" loader](https://github.com/iq9891/blog/issues/5)
 - [this[NS] is not a function](https://github.com/iq9891/blog/issues/6)
+- [jest SyntaxError: Unexpected token import](https://github.com/iq9891/blog/issues/7)
