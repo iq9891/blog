@@ -139,7 +139,7 @@ program
 
 program
     .command('delete') // fe delete
-    .description('查看模板列表')
+    .description('删除模板')
     .alias('d') // 简写
     .action(() => {
       require('../cmd/delete')();
