@@ -7,6 +7,7 @@
 
 - [从零开始搭建前端脚手架](https://github.com/iq9891/blog/issues/2)
 - [webpack 4 提取 CSS 等样式文件](https://github.com/iq9891/blog/issues/4)
+- [从零搭建组件库模板](https://github.com/iq9891/blog/issues/9)
 
 ## 问题篇
 
