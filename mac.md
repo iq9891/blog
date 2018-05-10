@@ -34,3 +34,6 @@
 12. [git](https://git-scm.com/downloads) 代码版本控制
 13. [nvm](https://github.com/creationix/nvm) Node.js 控制版本
 14. [yarn](https://yarn.bootcss.com/docs/install.html)
+15. [tig](https://github.com/jonas/tig) 查看 commit 信息的工具
+16. [cz-cli](https://github.com/commitizen/cz-cli) 规范 commit 信息的工具
+17. [VirtualBox](https://www.virtualbox.org/wiki/Downloads) mac 上的虚拟机，只为调试 IE
