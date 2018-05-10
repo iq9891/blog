@@ -20,3 +20,7 @@
 - [this[NS] is not a function](https://github.com/iq9891/blog/issues/6)
 - [jest SyntaxError: Unexpected token import](https://github.com/iq9891/blog/issues/7)
 - [jest 测试覆盖报告 File 中并没有测试的文件](https://github.com/iq9891/blog/issues/8)
+
+## Mac 篇
+
+- [从零开始配置一台 mac 电脑(前端方向)](https://github.com/iq9891/blog/issues/11)
