@@ -24,3 +24,4 @@
 ## Mac 篇
 
 - [从零开始配置一台 mac 电脑(前端方向)](https://github.com/iq9891/blog/issues/11)
+- [mac 使用](https://github.com/iq9891/blog/issues/12)
