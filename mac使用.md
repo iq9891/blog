@@ -82,3 +82,20 @@
 |----|----|
 |`: + x`|不保存退出|
 |`: + w + q`|保存退出|
+
+### 常用的 shell 工具整理
+
+- [tldr](https://github.com/tldr-pages/tldr) - 查看 linux命令帮助(Too long, Don't read)， usage: `tldr ssh`
+- [autojump](https://github.com/wting/autojump) - 快速切换常用目录， usage: `j dir_name`
+- [ag](https://github.com/ggreer/the_silver_searcher) - 搜索工具， usage: `ag '\/#\/'`
+- [fuck](https://github.com/nvbn/thefuck) - 纠正工具. 上一行输入错了， usage: `fuck`, 输出正确的。
+- [k](https://github.com/supercrabtree/k) - zsh 插件，需要用 zsh 的安装方式安装，brew 不起作用。命令行美化工具, 常用在git 仓库内
+  ```
+  ll # 原样式查看
+  k  # 美化样式查看
+  ```
+- [so](https://github.com/ca0gu0/so) - SSH远程登录工具
+- [hr](https://github.com/LuRsT/hr) - 用于在终端展示分行符
+- [tcplstat](https://github.com/calvinwilliams/tcplstat) - 网络监控工具
+- [cz-cli](https://github.com/commitizen/cz-cli) - git commit 工具
+- [tig](https://github.com/jonas/tig) - git log 查看工具
