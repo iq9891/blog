@@ -21,6 +21,7 @@
 - [jest SyntaxError: Unexpected token import](https://github.com/iq9891/blog/issues/7)
 - [jest 测试覆盖报告 File 中并没有测试的文件](https://github.com/iq9891/blog/issues/8)
 - [No Xcode or CLT version detected](https://github.com/iq9891/blog/issues/17)
+- [libcrypto.so.6: cannot open shared object file](https://github.com/iq9891/blog/issues/20)
 
 ## Mac 篇
 
