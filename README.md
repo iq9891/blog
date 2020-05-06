@@ -17,6 +17,7 @@
 * [**从零搭建 Vue.js 组件库模板**][2-3]
 * [**设置国内镜像**][2-4]
 * [**在 GitHub 配置 Actions**][5-1]
+* [**Linux 或 Mac 命令行手册**][5-2]
 
 ## 问题篇
 
@@ -61,5 +62,6 @@
 [4-4]:	https://github.com/iq9891/blog/issues/25
 
 [5-1]:	https://github.com/iq9891/blog/issues/19
+[5-2]:	https://github.com/iq9891/blog/blob/master/utils/cmd.md
 
 [6-1]:	https://github.com/iq9891/blog/issues/22
