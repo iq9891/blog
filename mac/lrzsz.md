@@ -30,6 +30,7 @@ chmod 777 /usr/local/bin/iterm2-*
 ```
 
 2. 在iTerm 2添加Triggers
+> ❗️ 温馨提示： 要是有不同的 Profiles 要记得在不同的 Profiles 里面在添加一遍，不然不起作用
 
 ![i1](../img/mac/lrzsz/lrzsz1.png)
 
