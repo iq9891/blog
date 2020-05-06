@@ -35,6 +35,7 @@
 * [**从零开始配置一台 mac 电脑(前端方向)**][4-1]
 * [**mac 使用**][4-2]
 * [**Mac 命令行登录 Linux 无需密码的配置**][4-3]
+* [**iTerm2 使用 lrzsz 上传下载文件**][4-4]
 
 
 [1-1]:	https://github.com/iq9891/blog/issues/10
@@ -57,6 +58,7 @@
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
 [4-3]:	https://github.com/iq9891/blog/issues/21
+[4-4]:	https://github.com/iq9891/blog/issues/25
 
 [5-1]:	https://github.com/iq9891/blog/issues/19
 
