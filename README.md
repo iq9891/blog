@@ -33,6 +33,7 @@
 * [**Android AVD system**][3-10]
 * [**Running Gradle task 'assembleDebug' Forever**][3-11]
 * [**flutter android keeps stopping**][3-12]
+* [**flutter android 启动图撑满屏幕][3-13]
 
 ## Mac 篇
 
@@ -61,6 +62,7 @@
 [3-10]:	https://github.com/iq9891/blog/issues/27
 [3-11]:	https://github.com/iq9891/blog/issues/28
 [3-12]:	https://github.com/iq9891/blog/issues/29
+[3-13]:	https://github.com/iq9891/blog/issues/30
 
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
