@@ -31,6 +31,7 @@
 * [**Could not resolve hostname**][3-8]
 * [**axios拿不到自定义的header头**][3-9]
 * [**Android AVD system**][3-10]
+* [**Running Gradle task 'assembleDebug' Forever**][3-11]
 
 ## Mac 篇
 
@@ -57,6 +58,7 @@
 [3-8]:	https://github.com/iq9891/blog/issues/16
 [3-9]:	https://github.com/iq9891/blog/issues/24
 [3-10]:	https://github.com/iq9891/blog/issues/27
+[3-11]:	https://github.com/iq9891/blog/issues/28
 
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
