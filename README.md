@@ -66,7 +66,7 @@
 [3-12]:	https://github.com/iq9891/blog/issues/29
 [3-13]:	https://github.com/iq9891/blog/issues/30
 [3-14]:	https://github.com/iq9891/blog/issues/31
-[3-14]:	https://github.com/iq9891/blog/issues/32
+[3-15]:	https://github.com/iq9891/blog/issues/32
 
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
