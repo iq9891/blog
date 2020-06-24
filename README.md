@@ -35,6 +35,7 @@
 * [**flutter android keeps stopping**][3-12]
 * [**flutter android 启动图撑满屏幕**][3-13]
 * [**Trying to embed a platform view but the PrerollContext does not support embedding**][3-14] Flutter 的 webview 插件使用的 iOS 配置
+* [**Plugin project :url_launcher_web not found.**][3-15]
 
 ## Mac 篇
 
@@ -65,6 +66,7 @@
 [3-12]:	https://github.com/iq9891/blog/issues/29
 [3-13]:	https://github.com/iq9891/blog/issues/30
 [3-14]:	https://github.com/iq9891/blog/issues/31
+[3-14]:	https://github.com/iq9891/blog/issues/32
 
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
