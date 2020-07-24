@@ -76,7 +76,7 @@
 [4-5]:	https://github.com/iq9891/blog/issues/26
 
 [5-1]:	https://github.com/iq9891/blog/issues/19
-[5-2]:	https://github.com/iq9891/blog/blob/master/utils/cmd.md
+[5-2]:	https://github.com/iq9891/blog/issues/34
 [5-3]:	https://github.com/iq9891/blog/issues/33
 
 [6-1]:	https://github.com/iq9891/blog/issues/22
