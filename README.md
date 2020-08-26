@@ -37,6 +37,7 @@
 * [**flutter android 启动图撑满屏幕**][3-13]
 * [**Trying to embed a platform view but the PrerollContext does not support embedding**][3-14] Flutter 的 webview 插件使用的 iOS 配置
 * [**Plugin project :url_launcher_web not found.**][3-15]
+* [**linux配置docker报错：ImportError: No module named yum**][3-16]
 
 ## Mac 篇
 
@@ -68,6 +69,7 @@
 [3-13]:	https://github.com/iq9891/blog/issues/30
 [3-14]:	https://github.com/iq9891/blog/issues/31
 [3-15]:	https://github.com/iq9891/blog/issues/32
+[3-16]:	https://github.com/iq9891/blog/issues/35
 
 [4-1]:	https://github.com/iq9891/blog/issues/11
 [4-2]:	https://github.com/iq9891/blog/issues/12
