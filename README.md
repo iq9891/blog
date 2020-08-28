@@ -47,6 +47,10 @@
 * [**iTerm2 使用 lrzsz 上传下载文件**][4-4]
 * [**node: No such file or directory**][4-5]
 
+## 手册
+
+* [**docker 在 centos**][7-1]
+
 [1-1]:	https://github.com/iq9891/blog/issues/10
 
 [2-1]:	https://github.com/iq9891/blog/issues/2
@@ -82,3 +86,5 @@
 [5-3]:	https://github.com/iq9891/blog/issues/33
 
 [6-1]:	https://github.com/iq9891/blog/issues/22
+
+[7-1]:	https://github.com/iq9891/blog/issues/36
